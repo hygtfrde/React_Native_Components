@@ -1,4 +1,6 @@
 start_native_ts/node_modules
+basic_native/node_modules
+
 .expo/
 npm-debug.*
 *.jks
